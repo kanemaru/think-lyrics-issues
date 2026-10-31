@@ -30,10 +30,11 @@ Think Songs は、音楽に合わせて歌詞がぴったり同期して流れ�
 | `Android` | Android 版 |
 | `Windows` | Windows 版 |
 | `HelperApp` | [同期ヘルパー](https://think-songs.com/sync-helper)(Web 版と手元の音楽アプリを一緒に動かすデスクトップアプリ) |
+| `Web` | Web 版・サーバー |
 | `bug` | 不具合 |
 | `enhancement` | 要望・改善 |
 
-同じ問題が複数の環境で起きているものには、ラベルを併記しています。Web 版やサーバーに関するものには、OS のラベルを付けていません。
+同じ問題が複数の環境で起きているものには、ラベルを併記しています。
 
 ## 不具合を報告するには
 
